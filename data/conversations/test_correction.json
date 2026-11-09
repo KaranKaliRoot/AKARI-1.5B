@@ -1,0 +1,16 @@
+{
+  "session_id": "test_correction",
+  "mode": "correction",
+  "created_at": 1794051329.3250232,
+  "updated_at": 1794051346.9530113,
+  "messages": [
+    {
+      "role": "user",
+      "content": "次の文の不自然なところを直してください：「昨日友達と映画を行きました。とても面白かったでした。」"
+    },
+    {
+      "role": "assistant",
+      "content": "あなたの文は基本的には正確で自然です。しかし、一部の表現や語彙が使われていないと感じました。以下に修正した例文を示します：\n\n「昨日、友達と映画を見に行きました。とても面白いでした。」\n\n修正ポイント：\n1. 「行きました」から「見に行きました」に修正しました。これは、友達と一緒に映画を見に行ったというより、ただ見に行ってきたという意味になります。\n2. 「面白かったでした」から「面白いでした」に修正しました。これは、映画が面白かったという意味になります。\n\n corrected sentence: 「昨日、友達と映画を見に行きました。とても面白いでした。」\n\nReading: 今日の映画はとても面白いでした。\n\nMeaning: \"I went to see a movie with my friends yesterday. It was very interesting.\""
+    }
+  ]
+}

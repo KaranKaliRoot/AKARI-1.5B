@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+.vscode/
+.claude/
+*.log
+data/*.db
+data/*.db.*
+!data/akari.db.placeholder
+models/*.gguf
+.env

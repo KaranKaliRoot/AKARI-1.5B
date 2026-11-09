@@ -1,0 +1,16 @@
+{
+  "session_id": "test_vocab_rag",
+  "mode": "teaching",
+  "created_at": 1794052584.2137911,
+  "updated_at": 1794052585.290728,
+  "messages": [
+    {
+      "role": "user",
+      "content": "??????????????????"
+    },
+    {
+      "role": "assistant",
+      "content": "こんにちは、お元気ですか？"
+    }
+  ]
+}

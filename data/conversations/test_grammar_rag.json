@@ -1,0 +1,16 @@
+{
+  "session_id": "test_grammar_rag",
+  "mode": "teaching",
+  "created_at": 1794052576.5092092,
+  "updated_at": 1794052584.0584705,
+  "messages": [
+    {
+      "role": "user",
+      "content": "???? ????????????"
+    },
+    {
+      "role": "assistant",
+      "content": "こんにちは、お元気ですか？お話を聞きながら、何かお手伝いできることがありますか？"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "session_id": "test_rag_v2",
+  "mode": "teaching",
+  "created_at": 1794052830.6102192,
+  "updated_at": 1794052833.711506,
+  "messages": [
+    {
+      "role": "user",
+      "content": "?????????????????????"
+    },
+    {
+      "role": "assistant",
+      "content": "こんにちは、灯りです。何かお手伝いできることはありますか？"
+    }
+  ]
+}
